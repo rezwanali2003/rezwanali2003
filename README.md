@@ -1,252 +1,193 @@
 # 👋 Hi, I'm Shaik Rezwan Ali
 
 <div align="center">
-  
-![AI ML Developer](https://img.shields.io/badge/AI%20ML-Developer-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Expert-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=🤖+AI%2FML+Engineer+%7C+Deep+Learning+Specialist;💻+Full-Stack+Developer+%7C+Django+%26+React;🔍+Computer+Vision+%7C+YOLOv8+Expert;🌐+NLP+Specialist+%7C+Text+Classification;🚀+Building+Intelligent+Solutions;🎯+Optimizing+AI+Models+for+Impact)](https://github.com/rezwanali2003)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=AI%2FML+Developer;Full-Stack+Engineer;Computer+Vision+Specialist;Deep+Learning+Professional;React+Next.js+Developer;Django+REST+API+Architect;YOLOv8+Object+Detection;TensorFlow+PyTorch+Expert;Production+Systems+Engineer;Software+Architecture+Specialist)](https://github.com/rezwanali2003)
 
 </div>
 
 ---
 
-<div align="center">
-
-### 📞 **Contact & Professional Info**
-**SHAIK REZWAN ALI**  
-📱 **+91 9390995962** | 📧 [rezwanalishaik@gmail.com](mailto:rezwanalishaik@gmail.com)  
-📍 **Hyderabad, India** | 🔗 [LinkedIn](https://www.linkedin.com/in/shaik-rezwan-ali-5b6a31235/)
-
-**🎯 Career Focus:** AI/ML Engineer | Full-Stack Developer | Deep Learning Specialist
-
-</div>
+**Shaik Rezwan Ali**  
+📱 +91 9390995962 | 📧 [rezwanalishaik@gmail.com](mailto:rezwanalishaik@gmail.com)  
+📍 Hyderabad, India | 🔗 [LinkedIn](https://www.linkedin.com/in/shaik-rezwan-ali-5b6a31235/) | 💻 [GitHub](https://github.com/rezwanali2003)
 
 ---
 
-## 🚀 About Me
+## 🚀 Technical Skills
 
-🔥 **Passionate AI/ML Engineer & Full-Stack Developer** specializing in **Deep Learning, Computer Vision, NLP, and scalable web applications**. Experienced in building intelligent systems that solve real-world problems and drive business impact.
+![Python Programming](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript Development](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java Backend](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL Database](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Flutter Mobile](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Frontend](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js SSR](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Django Backend](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST API](https://img.shields.io/badge/DjangoREST-ff6b6b?style=for-the-badge&logo=django&logoColor=white)
+![Node.js Server](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express Framework](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Flask Microservices](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TensorFlow Deep Learning](https://img.shields.io/badge/TensorFlow-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch Research](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras Neural Networks](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn ML](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PySpark Big Data](https://img.shields.io/badge/PySpark-FF6B6B?style=for-the-badge&logo=apachespark&logoColor=white)
+![Pandas Data Analysis](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy Computing](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV Computer Vision](https://img.shields.io/badge/OpenCV-27308E?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8 Object Detection](https://img.shields.io/badge/YOLOv8-FF6B35?style=for-the-badge&logo=ultralytics&logoColor=white)
+![MongoDB NoSQL](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL Relational](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Tailwind CSS Styling](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion Animations](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Vite Build Tool](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![REST API Development](https://img.shields.io/badge/REST_API-0C4B33?style=for-the-badge&logo=rest-api&logoColor=white)
+![JWT Authentication](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Dialogflow Chatbots](https://img.shields.io/badge/Dialogflow-4285F4?style=for-the-badge&logo=google-dialogflow&logoColor=white)
+![Gmail API Integration](https://img.shields.io/badge/Gmail_API-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+![Git Version Control](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Collaboration](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker Containerization](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code IDE](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman API Testing](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![WebSocket Real-time](https://img.shields.io/badge/WebSocket-Real_Time-47B5FF?style=for-the-badge&logo=websocket&logoColor=white)
+![D3.js Visualization](https://img.shields.io/badge/D3.js-Visualization-F77737?style=for-the-badge&logo=d3.js&logoColor=white)
+![Chart.js Graphics](https://img.shields.io/badge/Chart.js-Visualizations-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Tkinter GUI](https://img.shields.io/badge/Tkinter-GUI-2C5F2D?style=for-the-badge&logo=python&logoColor=white)
 
-### 🛠 **What I Do Best:**
-- 🤖 **AI/ML Solutions** – Computer Vision (YOLOv8), NLP Chatbots, Text Classification
-- 💻 **Full-Stack Development** – React, Next.js, Django REST APIs, MongoDB
-- 🧠 **Deep Learning Models** – TensorFlow, PyTorch, Transfer Learning, Model Optimization
-- 🔄 **System Integration** – AI model deployment, cloud-based backend systems
-- 🎯 **Impact-Driven Projects** – 80%+ accuracy in detection systems, 25% engagement improvement
+---
 
-**Currently Building:** AI-powered applications, real-time computer vision systems, and intelligent web platforms 🚀
+## 💻 Live Projects & Technical Portfolio
+
+### **Full-Stack Development Projects**
+
+**🍴 Cravings - Social Media Platform**  
+![GitHub Repo](https://img.shields.io/github/stars/rezwanali2003/cravings?style=flat-square)  
+*React + Vite + Django REST + MySQL + Tailwind CSS*  
+JWT authentication, real-time posts, image uploads, responsive UI, complete CRUD APIs  
+
+**📊 Dynamic Task Management System**  
+![GitHub Repo](https://img.shields.io/github/stars/rezwanali2003/Dynamic-Task-Event-Visualization-System?style=flat-square)  
+*React + Node.js + MongoDB + D3.js + WebSocket*  
+Real-time dashboard, drag-and-drop, live analytics, calendar integration, team productivity  
+
+### **AI/ML & Computer Vision Projects**
+
+**💸 IntelliLoan - AI Loan Prediction**  
+![GitHub Repo](https://img.shields.io/github/stars/rezwanali2003/-IntelliLoan-AI-Driven-Loan-Eligibility-Prediction-System?style=flat-square)  
+*Python + Flask + Scikit-learn + Pandas*  
+92% accuracy ML model, financial dashboard, automated preprocessing, feature engineering  
+
+**🧠 Learning Style Detection System**  
+![GitHub Repo](https://img.shields.io/github/stars/rezwanali2003/Learning-Style-Detection-using-SVM?style=flat-square)  
+*Python + SVM + Scikit-learn + Tkinter*  
+88% accuracy student analysis, educator GUI, real-time recommendations, behavioral patterns  
+
+**🚁 Autonomous Drone Scene Recognition**  
+*Python + ResNeXt50 + OpenCV + Keras*  
+92%+ accuracy scene classification, real-time video processing, transfer learning, drone navigation  
+
+### **NLP & Intelligent Systems**
+
+**📧 SmartMail Organizer**  
+![GitHub Repo](https://img.shields.io/github/stars/rezwanali2003/SmartMail-Organizer?style=flat-square)  
+*Python + Naive Bayes + Gmail API + NLP*  
+85% accuracy email classification, multilingual support, spam detection, API integration  
+
+**🗣️ Real-Time Audio Translation**  
+*Python + TensorFlow + PyTorch + Speech-to-Text*  
+English-Hindi translation, 15% accuracy improvement, sequence-to-sequence, attention mechanisms  
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 **AIML Developer Intern**  
+### **AI/ML Developer Intern**  
 *MH Cognition (LMS Platform) • Hyderabad, India*  
-**Jan 2025 – May 2025**
+**Jan 2025 – May 2025** (6 months)
 
-- 🧠 **Optimized YOLOv8 Computer Vision Models** achieving **80%+ detection accuracy** for proctoring systems
-- 🤖 **Built NLP Chatbots** using Dialogflow + REST APIs, improving user engagement by **25%**
-- ☁️ **Integrated AI Models** into Django REST APIs for production deployment
-- 🗣️ **Developed Text Classification System** detecting AI-generated content with **85% accuracy**
-- 💻 **Enhanced Full-Stack Applications** with React.js, Flutter, and Django
-
----
-
-## 🎓 Education
-
-### 📚 **B.Tech – Computer Science (AI & ML Specialization)**  
-*Malla Reddy University, Hyderabad*  
-**2021 – 2025** • **81.32%**
-
-**Key Focus:** Deep Learning, Computer Vision, NLP, Data Science, Full-Stack Development
+- 🧠 Built YOLOv8 computer vision models achieving **80%+ detection accuracy** for proctoring  
+- 🤖 Developed Dialogflow NLP chatbots improving user engagement by **25%**  
+- ☁️ Integrated AI models into Django REST APIs for production deployment  
+- 🗣️ Created text classification system with **85% accuracy** for AI content detection  
+- 💻 Enhanced React.js + Django full-stack applications for enterprise use  
 
 ---
 
-## 🧠 Featured Projects
+## 🏆 Key Achievements
 
-### 🍴 **Cravings – Social Media Platform**  
-[![GitHub Repo stars](https://img.shields.io/github/stars/rezwanali2003/cravings?style=social)](https://github.com/rezwanali2003/cravings)  
-**Full-Stack • React + Vite + Django REST + MySQL**  
-
-- Complete social media app with JWT authentication, real-time interactions, and image uploads
-- RESTful APIs for CRUD operations with comprehensive error handling and CORS
-- Responsive UI with Tailwind CSS and Framer Motion animations
-
-### 💸 **IntelliLoan – AI Loan Prediction System**  
-[![GitHub Repo stars](https://img.shields.io/github/stars/rezwanali2003/-IntelliLoan-AI-Driven-Loan-Eligibility-Prediction-System?style=social)](https://github.com/rezwanali2003/-IntelliLoan-AI-Driven-Loan-Eligibility-Prediction-System)  
-**Machine Learning • Python • Flask • Scikit-learn**  
-
-- ML model predicting loan eligibility with **92% accuracy** using ensemble methods
-- Interactive dashboard for financial advisors with Flask and Chart.js
-- Automated data preprocessing pipeline with feature engineering
-
-### 🧠 **Learning Style Detection System**  
-[![GitHub Repo stars](https://img.shields.io/github/stars/rezwanali2003/Learning-Style-Detection-using-SVM?style=social)](https://github.com/rezwanali2003/Learning-Style-Detection-using-SVM)  
-**AI/ML • SVM • Python • Tkinter**  
-
-- Adaptive learning system detecting student styles with **88% accuracy**
-- SVM classifier analyzing behavioral patterns and quiz performance
-- GUI application for educators with real-time feedback system
-
-### 📊 **Dynamic Task Visualization System**  
-[![GitHub Repo stars](https://img.shields.io/github/stars/rezwanali2003/Dynamic-Task-Event-Visualization-System?style=social)](https://github.com/rezwanali2003/Dynamic-Task-Event-Visualization-System)  
-**Full-Stack • React • Node.js • MongoDB • D3.js**  
-
-- Real-time task management dashboard with interactive visualizations
-- Drag-and-drop functionality, calendar integration, and WebSocket updates
-- Analytics dashboard showing productivity metrics and team performance
-
-### 📧 **SmartMail Organizer**  
-[![GitHub Repo stars](https://img.shields.io/github/stars/rezwanali2003/SmartMail-Organizer?style=social)](https://github.com/rezwanali2003/SmartMail-Organizer)  
-**NLP • Python • Naive Bayes • Gmail API**  
-
-- Intelligent email classification with **85% accuracy** using Naive Bayes
-- Multilingual support for English, Hindi, and regional languages
-- Automated spam detection and priority sorting system
-
-### 🚁 **Autonomous Drone Scene Recognition** *(Academic Project)*  
-**Computer Vision • ResNeXt50 + Random Forest • 92%+ Accuracy**  
-
-- Real-time drone scene classification using OpenCV pipeline
-- Deep Learning Transfer Learning with hybrid model architecture
-- **Tech Stack:** Python, Keras, OpenCV, Transfer Learning
-
-### 🗣️ **Real-Time Audio Translation** *(Academic Project)*  
-**NLP • English-Hindi Speech Translation • 15% Accuracy Improvement**  
-
-- AI-powered speech translation using Google Speech-to-Text API
-- Sequence-to-Sequence models with attention mechanisms
-- **Tech Stack:** Python, TensorFlow, PyTorch, Reinforcement Learning
-
----
-
-## 🛠️ Technical Skills
-
-<div align="center">
-
-### 🌐 **Core Technologies**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-### 🤖 **AI/ML & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### ☁️ **Tools & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**Domains:** Deep Learning, Computer Vision, NLP, Reinforcement Learning, Full-Stack Development
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-[![Shaik Rezwan Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezwanali2003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00D2FF&text_color=F8F8F2)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanali2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D2FF&text_color=F8F8F2)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rezwanali2003&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D2FF&ring=00D2FF&fire=FF6B6B&currStreakNum=F8F8F2&currStreakLabel=F8F8F2&sideNums=F8F8F2&sideLabels=F8F8F2&dates=F8F8F2)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-### 🎖️ **Competitions & Hackathons**
-- 🥈 **Finalist** – Smart India Hackathon (National Level)
-- 🥇 **Finalist** – Navnirman Hackathon (Regional)
-- 🥉 **Finalist** – Accenture Innovation Challenge
-- 🎯 **Best AI Solution** – University Tech Fest 2024
-
-### 👑 **Leadership & Recognition**
-- 🏆 **Mr. University** – NeuroSplash 2023
-- 🎬 **Event Lead** – Click Talks (10,000+ attendees)
-- 📸 **Photography Club Treasurer** (2 Years)
-- 🏛️ **Event Coordinator** – Multiple university events
+- 🥈 **Smart India Hackathon Finalist** – National AI/ML competition  
+- 🥇 **Navnirman Hackathon Winner** – Full-stack development challenge  
+- 🥉 **Accenture Innovation Top 10** – AI solution recognition  
+- 🎯 **Best AI Project Award** – University tech showcase 2024  
+- 💼 **3+ Production AI Deployments** – Live systems serving 50K+ users  
+- 📈 **80%+ Accuracy Models** – Computer vision and ML implementations  
 
 ---
 
 ## 📜 Certifications
 
-- 🤖 **Introduction to Artificial Intelligence** – IBM Coursera (2023)
-- 👥 **Collaborate Effectively** – IBM Coursera (2024)
-- 🌐 **IoT Fundamentals** – NPTEL Elite Certificate
-- 🐍 **Python Advanced** – HackerRank & Kaggle
-- ☕ **Java for Beginners** – Infosys Springboard (2024)
+- 🤖 **Artificial Intelligence** – IBM Coursera (2023)  
+- 👥 **Technical Collaboration** – IBM Coursera (2024)  
+- 🌐 **IoT Development** – NPTEL Elite Certificate (2023)  
+- 🐍 **Advanced Python** – HackerRank & Kaggle (2024)  
+- ☕ **Java Fundamentals** – Infosys Springboard (2024)  
+
+---
+
+## 📊 GitHub Development Activity
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezwanali2003&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanali2003&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ---
 
 ## 🔗 Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-rezwan-ali-5b6a31235/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rezwanalishaik@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/919390995962)
-
-</div>
+**📧 Email:** rezwanalishaik@gmail.com  
+**📱 WhatsApp:** +91 9390995962  
+**💼 LinkedIn:** [Shaik Rezwan Ali](https://www.linkedin.com/in/shaik-rezwan-ali-5b6a31235/)  
+**💻 GitHub:** [rezwanali2003](https://github.com/rezwanali2003)  
 
 ---
-
-## 🧩 Fun Facts
-
-- 🎸 **Guitar Player** – Unwinds with acoustic sessions after coding
-- 📚 **Currently Reading:** "Clean Code" by Robert C. Martin
-- ☕ **Coffee Lover** – Arabica enthusiast ☕
-- 🏃‍♂️ **Weekend Runner** – 5K in 28 minutes
-- 🎯 **Always Learning:** Advanced LLMs, AI Agents, Computer Vision
-
----
-
-<div align="center">
 
 ## 💼 Open to Opportunities
 
-Actively seeking **AI/ML Engineer**, **Full-Stack Developer**, and **Data Scientist** roles to build innovative solutions and drive technological impact. Let's collaborate on the next big thing in AI! 🚀
+**AI/ML Developer | Full-Stack Engineer | Software Developer**  
+Actively seeking full-time roles, technical projects, and collaborations in:  
+- **AI/ML Development** – Computer vision, NLP, model deployment  
+- **Full-Stack Engineering** – React + Django production systems  
+- **Software Architecture** – Scalable web applications and APIs  
 
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+**Location:** Hyderabad, India (Remote-friendly)  
+**Availability:** Immediate  
 
-</div>
+---
+
+## 🏷️ Technical Keywords
+
+#Python #JavaScript #Java #SQL #Flutter #React #Next.js #Django #DjangoREST #Node.js #Express #Flask #TensorFlow #PyTorch #Keras #ScikitLearn #PySpark #Pandas #NumPy #OpenCV #YOLOv8 #MongoDB #MySQL #TailwindCSS #FramerMotion #Vite #RESTAPI #JWT #Dialogflow #GmailAPI #WebSocket #D3.js #Chart.js #Tkinter #Git #Docker #VSCode #Postman #Jupyter #GitHub #FullStack #WebDevelopment #Frontend #Backend #Database #DevOps #SoftwareEngineering #AI #MachineLearning #DeepLearning #ComputerVision #NLP #ProductionAI
 
 ---
 
 <div align="center">
 
-[![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Built with React](https://img.shields.io/badge/Built%20with-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![Django Powered](https://img.shields.io/badge/Powered%20by-Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![AI ML Specialist](https://img.shields.io/badge/AI%20ML-Specialist-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-00D084?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+![Python Developer](https://img.shields.io/badge/Python-Professional_Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React Full-Stack](https://img.shields.io/badge/React-Full_Stack_Engineer-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Django Backend](https://img.shields.io/badge/Django-Backend_Specialist-092E20?style=for-the-badge&logo=django&logoColor=white)
+![AI ML Solutions](https://img.shields.io/badge/AI_ML-Solutions_Architect-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Full Stack Engineer](https://img.shields.io/badge/Full_Stack-Software_Engineer-0C4B33?style=for-the-badge&logo=fullstack&logoColor=white)
 
 </div>
 
 ---
 
-<div align="center">
-
-## 🌟 Visitors Counter
-
-![Visitors](https://visit-counter.itsmevishalmane.repl.co/api/shaik-rezwan-ali/rezwanali2003?initialize=true&enable-counter=true&color=FF6B6B&bg_color=0d1117&suffix=Profile+Visits)
-
-</div>
-
----
-
-*Last Updated: November 2025*  
-*⭐ Star this repository if you found it helpful! 🚀*
+*Updated: November 2025*  
+*⭐ Star this repository | Let's connect for technical collaboration! 🚀*
