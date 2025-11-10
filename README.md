@@ -3,7 +3,7 @@
 🎯 **AIML Data Scientist | Deep Learning • NLP • Computer Vision Enthusiast**  
 📍 Hyderabad, India  
 📧 [rezwanalishaik@gmail.com](mailto:rezwanalishaik@gmail.com) | 📞 +91 9390995962  
-🔗 [LinkedIn](https://linkedin.com/in/rezwanali2003) | [GitHub](https://github.com/rezwanali2003)
+🔗 [LinkedIn](https://www.linkedin.com/in/shaik-rezwan-ali-5b6a31235/) | [GitHub](https://github.com/rezwanali2003)
 
 ---
 
