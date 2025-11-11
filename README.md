@@ -75,7 +75,6 @@
 - Comprehensive RESTful API development covering all CRUD operations with Django serializers
 - Production-grade error handling, input validation, CORS configuration, and security middleware
 
-**Impact:** 100% API coverage, <2s page load times, 99.9% uptime during testing, scalable to 10,000+ users
 
 ---
 
@@ -110,7 +109,6 @@
 - Advanced data visualization and reporting capabilities for institutional academic assessment
 - SQLite database integration for student profile management and progress tracking
 
-**Impact:** 88% classification accuracy, <2s processing time per student assessment, deployed for 500+ students
 
 ---
 
@@ -127,7 +125,6 @@
 - Comprehensive productivity analytics engine with KPI tracking and performance benchmarking
 - MongoDB aggregation pipelines for advanced querying and real-time data processing
 
-**Impact:** <100ms WebSocket latency, handles 500+ concurrent users, 99.8% data sync accuracy in team environments
 
 ---
 
@@ -145,7 +142,6 @@
 - Direct Gmail API integration with OAuth2 authentication for secure real-time email processing
 - Custom rule-based filtering system with user-defined categorization and automation preferences
 
-**Impact:** 85% classification accuracy, processes 1000+ emails per hour, 99% spam detection rate for personal productivity
 
 ---
 
@@ -163,7 +159,7 @@
 - Edge deployment optimization reducing model size by 60% while maintaining 92% accuracy
 - Environmental scene analysis enabling intelligent navigation decisions in complex terrains
 
-**Impact:** 92% scene classification accuracy, 30 FPS real-time processing, 6% improvement over baseline models for drone applications
+
 
 ---
 
@@ -181,7 +177,7 @@
 - Low-latency inference pipeline optimized for real-time communication applications
 - Bidirectional translation supporting English→Hindi and Hindi→English speech conversion
 
-**Impact:** 85% translation accuracy, <500ms end-to-end latency, 15% improvement over baseline models for real-time conversations
+
 
 
 
