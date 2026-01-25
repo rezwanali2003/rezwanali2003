@@ -218,10 +218,17 @@
 
 ---
 
-## 📊 GitHub Development Activity
+## 📊 GitHub Activity (Last Month)
 
 <div align="center">
 
+<!-- Activity Graph (shows recent month-style activity) -->
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rezwanali2003&theme=radical&hide_border=true)](https://github.com/rezwanali2003)
+
+<!-- Streak (recent contribution consistency) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=rezwanali2003&theme=radical&hide_border=true&cache_seconds=86400)](https://git.io/streak-stats)
+
+<!-- Overall stats + languages (kept same as your original) -->
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezwanali2003&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanali2003&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
