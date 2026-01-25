@@ -57,6 +57,34 @@
 
 ---
 
+## 💼 Professional Experience
+
+### **Full Stack Developer**  
+**Jan 2026 – Present**
+
+- Contributed to the foundation and core architecture of a scalable web application using **Next.js, Redux, Node.js, and MongoDB**
+- Built reusable frontend components, responsive layouts, and state-managed UI flows using **Redux** for enterprise-scale pages
+- Developed backend APIs and database structure to support high-performance, large-scale web features
+
+### **Full Stack Developer Intern**  
+**Nov 2025 – Dec 2025**
+
+- Worked on scalable web modules using **Next.js, Redux, Node.js, and MongoDB**
+- Built reusable UI components and responsive layouts for production-ready pages
+- Assisted in developing backend APIs and database integration for core application features
+
+### **AI/ML Developer Intern**  
+*MH Cognition (LMS Platform) • Hyderabad, India*  
+**Jan 2025 – May 2025** (6 months)
+
+- 🧠 Built YOLOv8 computer vision models achieving **80%+ detection accuracy** for proctoring  
+- 🤖 Developed Dialogflow NLP chatbots improving user engagement by **25%**  
+- ☁️ Integrated AI models into Django REST APIs for production deployment  
+- 🗣️ Created text classification system with **85% accuracy** for AI content detection  
+- 💻 Enhanced React.js + Django full-stack applications for enterprise use  
+
+---
+
 ## 💻 Live Projects & Technical Portfolio
 
 ### **Full-Stack Development Projects**
@@ -177,24 +205,6 @@
 - Low-latency inference pipeline optimized for real-time communication applications
 - Bidirectional translation supporting English→Hindi and Hindi→English speech conversion
 
-
-
-
-
----
-
-## 💼 Professional Experience
-
-### **AI/ML Developer Intern**  
-*MH Cognition (LMS Platform) • Hyderabad, India*  
-**Jan 2025 – May 2025** (6 months)
-
-- 🧠 Built YOLOv8 computer vision models achieving **80%+ detection accuracy** for proctoring  
-- 🤖 Developed Dialogflow NLP chatbots improving user engagement by **25%**  
-- ☁️ Integrated AI models into Django REST APIs for production deployment  
-- 🗣️ Created text classification system with **85% accuracy** for AI content detection  
-- 💻 Enhanced React.js + Django full-stack applications for enterprise use  
-
 ---
 
 ## 🏆 Key Achievements
@@ -222,13 +232,10 @@
 
 <div align="center">
 
-<!-- Activity Graph (shows recent month-style activity) -->
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rezwanali2003&theme=radical&hide_border=true)](https://github.com/rezwanali2003)
 
-<!-- Streak (recent contribution consistency) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=rezwanali2003&theme=radical&hide_border=true&cache_seconds=86400)](https://git.io/streak-stats)
 
-<!-- Overall stats + languages (kept same as your original) -->
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezwanali2003&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanali2003&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -277,5 +284,5 @@ Actively seeking full-time roles, technical projects, and collaborations in:
 
 ---
 
-*Updated: November 2025*  
+*Updated: January 2026*  
 *⭐ Star this repository | Let's connect for technical collaboration! 🚀*
