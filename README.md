@@ -9,7 +9,7 @@
 ---
 
 **Shaik Rezwan Ali**  
-📱 +91 9390995962 | 📧 [rezwanalishaik@gmail.com](mailto:rezwanalishaik@gmail.com)  
+ 📧 [rezwanalishaik@gmail.com](mailto:rezwanalishaik@gmail.com)  
 📍 Hyderabad, India | 🔗 [LinkedIn](https://www.linkedin.com/in/shaik-rezwan-ali-5b6a31235/) | 💻 [GitHub](https://github.com/rezwanali2003)
 
 ---
@@ -247,7 +247,6 @@
 ## 🔗 Connect With Me
 
 **📧 Email:** rezwanalishaik@gmail.com  
-**📱 WhatsApp:** +91 9390995962  
 **💼 LinkedIn:** [Shaik Rezwan Ali](https://www.linkedin.com/in/shaik-rezwan-ali-5b6a31235/)  
 **💻 GitHub:** [rezwanali2003](https://github.com/rezwanali2003)  
 
