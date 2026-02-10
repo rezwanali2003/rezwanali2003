@@ -10,7 +10,8 @@
 
 **Shaik Rezwan Ali**  
  📧 [rezwanalishaik@gmail.com](mailto:rezwanalishaik@gmail.com)  
-📍 Hyderabad, India | 🔗 [LinkedIn](https://www.linkedin.com/in/shaik-rezwan-ali-5b6a31235/) | 💻 [GitHub](https://github.com/rezwanali2003)
+📍 Hyderabad, India | 🔗 [LinkedIn](https://www.linkedin.com/in/shaik-rezwan-ali-5b6a31235/) |
+💻 [GitHub](https://github.com/rezwanali2003)
 
 ---
 
