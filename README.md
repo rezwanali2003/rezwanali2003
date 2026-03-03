@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=AI%2FML+Developer;Full-Stack+Engineer;Computer+Vision;Deep+Learning;React+Next.js+Developer;Django+REST+API;YOLOv8+Object+Detection;TensorFlow+PyTorch;Production+Systems;Software+Architecture)](https://github.com/rezwanali2003)
 
 </div>
-hi
 ---
 
 **Shaik Rezwan Ali**  
